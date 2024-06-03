@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 📝 I regularly write articles on [https://substack.com/@parthvyas](https://substack.com/@parthvyas)
+- 📝 I <s>regularly</s> write articles on [https://substack.com/@parthvyas](https://substack.com/@parthvyas) once in a blue moon
 
 - 💬 Ask me about **SpringBoot, elasticSearch, Python**
 
