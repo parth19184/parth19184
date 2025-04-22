@@ -7,15 +7,15 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 📝 I <s>regularly</s> write articles on [https://substack.com/@parthvyas](https://substack.com/@parthvyas) once in a blue moon
+- 📝 I <s>regularly</s> write articles on [https://substack.com/@parthvyas](https://substack.com/@parthvyas) and [Medium](https://medium.com/@parthvyas08910)once in a blue moon
 
-- 💬 Ask me about **SpringBoot, elasticSearch, Python**
+- 💬 Ask me about **SpringBoot, ElasticSearch, Python**
 
 - 📫 How to reach me **parth.corp089@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LucTmJNQIYBBciBpM0ryFkqTIUPPAt1y/view?usp=drive_link](https://drive.google.com/file/d/1LucTmJNQIYBBciBpM0ryFkqTIUPPAt1y/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1LucTmJNQIYBBciBpM0ryFkqTIUPPAt1y/view?usp=drive_link](https://drive.google.com/file/d/1VY6DbWCLy_DB4rrmBCYErbQEpQCRJ5Gm/view?usp=sharing))
 
-- ⚡ Fun fact **I surprisingly know a lot of interesting facts that may be of no use to anyone.**
+- ⚡ Fun fact **I can do 18 pull ups I guess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
